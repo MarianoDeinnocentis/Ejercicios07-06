@@ -1,0 +1,15 @@
+D:\usuarios\alumno\escritorio\Array ejercicio 2\bin\Debug\net7.0\Array ejercicio 2.exe
+D:\usuarios\alumno\escritorio\Array ejercicio 2\bin\Debug\net7.0\Array ejercicio 2.deps.json
+D:\usuarios\alumno\escritorio\Array ejercicio 2\bin\Debug\net7.0\Array ejercicio 2.runtimeconfig.json
+D:\usuarios\alumno\escritorio\Array ejercicio 2\bin\Debug\net7.0\Array ejercicio 2.dll
+D:\usuarios\alumno\escritorio\Array ejercicio 2\bin\Debug\net7.0\Array ejercicio 2.pdb
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.csproj.AssemblyReference.cache
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.csproj.CoreCompileInputs.cache
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.dll
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\refint\Array ejercicio 2.dll
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.pdb
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\Array ejercicio 2.genruntimeconfig.cache
+D:\usuarios\alumno\escritorio\Array ejercicio 2\obj\Debug\net7.0\ref\Array ejercicio 2.dll
